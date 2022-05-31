@@ -15,3 +15,11 @@
 
 ## Code examples
 `console.log('B' + 'a' + + 'apple' + 'a');`
+
+## Education
+Belarus State Economic University
+* Department of accounting, analysis and audit in industry
+
+## Language
+* Russian - native speaker
+* English - A2 
