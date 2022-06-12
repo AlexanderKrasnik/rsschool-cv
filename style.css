@@ -1,3 +1,12 @@
-* {
-    background-color: grey
+
+
+.footer {
+    margin: 10px;
+    display: flex;
+    justify-content: space-around;
+  }
+
+.rs_school {
+    width: 15%;
+    height: 15%;
 }
