@@ -11,7 +11,7 @@ body{
 }
 
 .header img{
-    width: 40%;
+    width: 20%;
     float:right;
 }
 
@@ -44,6 +44,8 @@ body{
     border: 1px solid;
 }
 .footer {
+    /* width: 20%;
+    height: 20%; */
     border: 1px solid;
     display: flex;
     justify-content: space-around;
