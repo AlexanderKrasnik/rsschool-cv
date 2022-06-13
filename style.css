@@ -1,7 +1,75 @@
-* {
-    background-color: grey
+*{
+    background-color: rgb(239, 221, 255);
+    margin: 0;
+}
+body{
+    width: 80%;
+    margin: auto;
+}
+.header{
+    border: 1px solid;
 }
 
-li {
-    list-style-type: armenian;
+.header img{
+    width: 20%;
+    float:right;
 }
+
+.header ul{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(239, 221, 255);
+    margin: 0;
+}
+.header li {
+    padding: 5px;
+}
+
+.Contacts{
+    border: 1px solid;
+}
+.AboutMe{
+    border: 1px solid;
+}
+.Skills{
+    border: 1px solid;
+}
+.CodeExamples{
+    border: 1px solid;
+}
+.Education{
+    border: 1px solid;
+}
+.Language{
+    border: 1px solid;
+}
+.footer {
+    /* width: 20%;
+    height: 20%; */
+    border: 1px solid;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.footer p{
+    font-size: 80px;
+}
+
+.linkGitHub {
+    box-sizing: border-box;
+    width: 15%;
+    height: 15%;   
+}
+.rs_school {
+    width: 15%;
+    height: 15%;
+}
+
+
+.header li{
+    list-style-type: none;
+    box-sizing: content-box;
+    margin: 10px;
+}
+
