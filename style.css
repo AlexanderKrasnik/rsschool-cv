@@ -2,6 +2,11 @@
     background-color: rgb(239, 221, 255);
     margin: 0;
 }
+
+h1,h2,p,code{
+    margin: 10px;
+}
+
 body{
     width: 80%;
     margin: auto;
@@ -18,7 +23,6 @@ body{
 .header ul{
     display: flex;
     justify-content: space-around;
-    background-color: rgb(239, 221, 255);
     margin: 0;
 }
 .header li {
@@ -44,8 +48,6 @@ body{
     border: 1px solid;
 }
 .footer {
-    /* width: 20%;
-    height: 20%; */
     border: 1px solid;
     display: flex;
     justify-content: space-around;
@@ -53,17 +55,16 @@ body{
 }
 
 .footer p{
-    font-size: 80px;
+    font-size: 200%;
 }
 
-.linkGitHub {
+.linkGitHub img{
     box-sizing: border-box;
-    width: 15%;
-    height: 15%;   
+    width: 50%;
 }
 .rs_school {
-    width: 15%;
-    height: 15%;
+    width: 10%;
+    height: 10%;
 }
 
 
